@@ -7,7 +7,7 @@ var Nav = React.createClass({
             <div className="top-bar bottom-bar">
                 <div className="top-bar-left">
                     <ul className="menu">
-                        <li className="menu-text">Taipei Ethereum</li>
+                        <li className="menu-text">Taipei Ethereum Meetup</li>
                         <li>
                             <Link to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>LogoVote</Link>
                         </li>
